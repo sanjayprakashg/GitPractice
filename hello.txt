@@ -1,1 +1,2 @@
 Hello, I am learning Git 
+Learning Git is interesting 
